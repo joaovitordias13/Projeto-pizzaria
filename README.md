@@ -22,7 +22,7 @@ Este é meu primeiro projeto com o uso de Java script desenvolvido durante o mó
 ## Modal da pizza:
 <img src="midia.readme/modal.png" alt="">
 
-# Carrinho:
+## Carrinho:
 <img src="midia.readme/carrinho.png" alt="">
 
 # 🦸 Autor:
