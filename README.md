@@ -1,5 +1,5 @@
 # 💻  Sobre o Projeto:
-Este é meu primeiro projeto com o uso de Java script desenvolvido durante o módulo de Java script do curso oferecido pela B7web, com o objetivo de evoluir a construção individual do aluno. Foi desenvolvido um site para uma pizzaria e na página foram utilizandas apena as tecnologia HTML5,CSS3 e Java Script.
+Este é meu primeiro projeto com o uso de Java script desenvolvido durante o módulo de Java script do curso oferecido pela B7web, com o objetivo de evoluir a construção individual do aluno. Foi desenvolvido um site para uma pizzaria e na página foram utilizadas apena as tecnologia HTML5,CSS3 e Java Script.
 </br>
 # 🛠 Tecnologias utilizadas:
 <div>
