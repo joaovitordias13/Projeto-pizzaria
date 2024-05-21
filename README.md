@@ -15,6 +15,13 @@ Este é meu primeiro projeto com o uso de Java script desenvolvido durante o mó
 <li>Após escolher o sabor e clicar na pizza, será apresentado um modal com diversas informações sendo elas, o tamanho da pizza, uma breve descrição dos ingredientes, o valor da pizza e a quantidade de pizzas que o usuário vai querer.</li>
 <li>Em seguida, a pizza pode ser adicionada no carrinho com a apresentação de um subtotal e um desconto sobre o valor da pizza, logo após isso,e feito o valor final podendo finalizar a compra. </li>
 
+# Visualização Online:
+
+O resultado final do projeto está disponível para visualização online através da plataforma Vercel. Acesse o link abaixo para visualizar o website:
+</br>
+ https://projeto-pizzaria-bice.vercel.app/</li>
+</br>
+
 # 🎨 Pré-visualização :
 ## Apresentação das Pizzas
 <img src="midia.readme/Layout.png" alt="">
